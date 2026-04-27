@@ -1,99 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:4F46E5,75:2563EB,100:06B6D4&height=220&section=header&text=ASIK%20DIAL%20KUFFER&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%E2%80%A2%20AI%20%26%20IoT%20Architect%20%E2%80%A2%20Tech%20Entrepreneur&descSize=16&descColor=FFFFFF&descAlignY=55" width="100%"/>
+<br/>
+
+# Asik Dial Kuffer
+
+**Python Developer · AI & IoT Engineer · Tech Entrepreneur**
+
+*Kushtia, Bangladesh · 16 years old · Building since 2023*
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=22&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9A%A1+Think+Different.+Build+Different.+Ship+Different.;%F0%9F%94%A5+Turning+Ideas+into+Intelligent+Systems;%F0%9F%9A%80+From+Bangladesh+to+the+Global+Tech+Stage;%F0%9F%92%8E+Engineering+the+Future+Since+2023" alt="Tagline" />
+[![Website](https://img.shields.io/badge/Website-asikdial--tech.pro.bd-7C3AED?style=flat-square)](https://asikdial-tech.pro.bd)
+[![Email](https://img.shields.io/badge/Email-asikdial.dev@gmail.com-7C3AED?style=flat-square)](mailto:asikdial.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asikdial--tech-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asikdial-tech)
+[![Twitter](https://img.shields.io/badge/𝕏-AsikDialTech-7C3AED?style=flat-square&logo=x&logoColor=white)](https://x.com/AsikDialTech)
+[![GitHub](https://img.shields.io/badge/GitHub-asikdial--tech-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/asikdial-tech)
 
-<br/><br/>
+<br/>
 
-<a href="https://asikdial-tech.pro.bd/">
-<img src="https://img.shields.io/badge/🌐_Website-FF0080?style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:asikdial.dev@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-7928CA?style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/asikdial-tech">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://x.com/AsikDialTech">
-<img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://instagram.com/asikdial.tech">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://medium.com/@asikdial-tech">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=asikdial-dev&label=PROFILE+VIEWS&color=FF0080&style=for-the-badge&labelColor=000000" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/asikdial-dev?label=FOLLOWERS&color=7928CA&style=for-the-badge&labelColor=000000&logo=github&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/asikdial-dev?label=TOTAL+STARS&color=4F46E5&style=for-the-badge&labelColor=000000&logo=github&logoColor=white" />
-
-<br/><br/>
+![Profile Views](https://komarev.com/ghpvc/?username=asikdial-dev&label=Profile%20Views&color=7C3AED&style=flat-square)
 
 </div>
-
-<br/>
 
 ---
 
-<br/>
+## About
 
-<div align="center">
+I'm a **16-year-old developer** from **Kushtia, Bangladesh** specializing in **Python**, **Artificial Intelligence**, and **IoT systems**.
 
-> ### *"The people who are crazy enough to think they can change the world are the ones who do."*
-> **— Steve Jobs**
+Currently studying at Kushtia Government Technical School and College. Working as a **Technical Solutions Intern** at Unique Computer Kushtia. Certified by **Google Cloud** and **IBM**.
 
-</div>
+I build things that are intelligent, useful, and real.
 
-<br/>
+> *"The people who are crazy enough to think they can change the world are the ones who do."* — Steve Jobs
 
 ---
 
-<br/>
+## What I Build
 
-<!-- ══════════════════════ THE STORY ══════════════════════ -->
+| Area | Focus |
+|---|---|
+| 🧠 **AI & Machine Learning** | Computer Vision, NLP, Generative AI, LLMs |
+| 🔌 **IoT & Hardware** | ESP32, Raspberry Pi, Sensors, Edge Computing |
+| 🌐 **Web Development** | Flask, Django, FastAPI, React, Next.js |
+| ☁️ **Cloud & DevOps** | Google Cloud, AWS, Firebase, Docker |
 
-<div align="center">
+---
 
-## <img src="https://img.shields.io/badge/💎-FF0080?style=for-the-badge" /> &nbsp; THE STORY
+## Tech Stack
 
-</div>
+**Languages**
+`Python` `JavaScript` `TypeScript` `C++` `HTML` `CSS` `SQL` `Bash`
 
-<br/>
+**AI & ML**
+`TensorFlow` `PyTorch` `OpenCV` `MediaPipe` `scikit-learn` `Hugging Face` `NumPy` `Pandas`
 
-<table>
-<tr>
-<td>
+**Web & Backend**
+`Flask` `Django` `FastAPI` `Node.js` `React` `Next.js` `Tailwind CSS`
 
-### Who is Asik Dial Kuffer?
+**IoT & Hardware**
+`ESP32` `Raspberry Pi` `Arduino` `MQTT`
 
-I'm not just a developer — I'm a **16-year-old technology architect** from **Kushtia, Bangladesh** who engineers **experiences that transform industries**.
+**Cloud & Tools**
+`Google Cloud` `AWS` `Firebase` `Docker` `Git` `Linux` `Vercel` `VS Code`
 
-At **Kushtia Government Technical School and College**, I don't just study technology — I **build it**. From **AI-powered systems** to **IoT automation** to **intelligent software**, every project I ship is designed to solve **real problems** for **real people**.
+---
 
-💡 **While most 16-year-olds are scrolling social media:**
-- I'm **shipping AI products** used by real users
-- I'm **certified by Google & IBM** in AI and Cloud
-- I'm working as a **Technical Solutions Intern** building production systems
-- I'm **open-sourcing tools** that help thousands of developers worldwide
+## Projects
 
-🎯 I also practice **competitive shooting** (10m/50m) at the **Kushtia Rifle Club** — because the same precision I need to hit a target at 50 meters is the same precision I bring to every line of code.
+### 🧠 AI Virtual Mouse
+> Gesture-controlled mouse using hand movements detected through webcam — no extra hardware needed.
 
-<br/>
+Built with Python, OpenCV, and MediaPipe. Designed as an accessibility tool for people with physical disabilities.
 
-```diff
-+ This is not a resume.
-+ This is a statement of intent.
-+ I don't follow trends — I build tools that become them.
+[![View Project](https://img.shields.io/badge/View_Project-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/asikdial-dev/ai-virtual-mouse)
+`Python` `OpenCV` `MediaPipe`
+
+---
+
+### 🐠 Smart Aquarium
+> IoT-powered aquarium system that monitors and manages itself automatically.
+
+Automated feeding, water quality monitoring, temperature control, and mobile alerts — all on ESP32. Reduces fish mortality by 80%.
+
+[![View 
