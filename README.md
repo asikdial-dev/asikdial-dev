@@ -1,49 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
-
-<br/><br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=45&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Asik+Dial+Kuffer" alt="Name" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:e94560&height=200&section=header&text=&fontSize=0" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=2500&pause=1500&color=8B89CC&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Think+Different.+Build+Different.+Ship+Different.;Python+Developer+%E2%80%A2+AI+%26+IoT+Architect+%E2%80%A2+Tech+Entrepreneur;Building+Intelligent+Systems+from+Bangladesh" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=40&duration=3000&pause=2000&color=E8E8E8&center=true&vCenter=true&repeat=true&width=600&height=65&lines=Asik+Dial+Kuffer" alt="Name" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=400&size=16&duration=2500&pause=1500&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Think+Different.+Build+Different.+Ship+Different.;Python+Developer+%E2%80%A2+AI+%26+IoT+Architect+%E2%80%A2+Tech+Entrepreneur;Crafting+Intelligent+Systems+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Tagline" />
 
 <br/><br/>
 
 <a href="https://asikdial-tech.pro.bd/">
-<img src="https://img.shields.io/badge/Website-8B89CC?style=flat-square&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:asikdial.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/asikdial-tech">
-<img src="https://img.shields.io/badge/LinkedIn-8B89CC?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://x.com/AsikDialTech">
-<img src="https://img.shields.io/badge/𝕏-8B89CC?style=flat-square&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/𝕏-7C3AED?style=for-the-badge&logo=x&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://instagram.com/asikdial.tech">
-<img src="https://img.shields.io/badge/Instagram-8B89CC?style=flat-square&logo=instagram&logoColor=white" />
-</a>
-<a href="https://medium.com/@asikdial-tech">
-<img src="https://img.shields.io/badge/Medium-8B89CC?style=flat-square&logo=medium&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=asikdial-dev&label=Profile+Views&color=8B89CC&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=asikdial-dev&label=Profile+Views&color=7C3AED&style=flat-square&labelColor=1a1a2e" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/asikdial-dev?label=Followers&color=7C3AED&style=flat-square&labelColor=1a1a2e&logo=github&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/asikdial-dev?label=Stars&color=7C3AED&style=flat-square&labelColor=1a1a2e&logo=github&logoColor=white" />
+
+<br/><br/>
+
+<sub>📍 Kushtia, Bangladesh &nbsp;·&nbsp; 🎓 16 Years Old &nbsp;·&nbsp; 🚀 Building the Future</sub>
+
+</div>
 
 <br/>
 
-<sub>📍 Kushtia, Bangladesh &nbsp;·&nbsp; 🎓 16 Years Old &nbsp;·&nbsp; 🎯 Building the Future</sub>
-
-<br/><br/>
-
 ---
-
-</div>
 
 <br/>
 
@@ -61,13 +66,21 @@
 
 <br/>
 
+<!-- ══════════════════════ THE STORY ══════════════════════ -->
+
+<div align="center">
+
+## 💎 The Story
+
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td>
 
-### The Story
-
-I'm **Asik Dial Kuffer** — a **16-year-old technology architect** from **Kushtia, Bangladesh** who doesn't just write code, but engineers **experiences that matter**.
+I'm **Asik Dial Kuffer** — a **16-year-old technology architect** from **Kushtia, Bangladesh** who doesn't just write code, but engineers **experiences that transform lives**.
 
 Currently studying at **Kushtia Government Technical School and College**, I specialize in building **AI-powered systems**, **IoT automation**, and **intelligent software** that solve real problems for real people.
 
@@ -87,9 +100,11 @@ I also practice **competitive shooting** (10m/50m) at the **Kushtia Rifle Club**
 
 <br/>
 
+<!-- ══════════════════════ WHAT I DO ══════════════════════ -->
+
 <div align="center">
 
-### What I Do
+## 🔮 What I Do
 
 <br/>
 
@@ -99,9 +114,9 @@ I also practice **competitive shooting** (10m/50m) at the **Kushtia Rifle Club**
 <td align="center" width="25%">
 <br/>
 
-**🧠**
+<img src="https://img.shields.io/badge/🧠-7C3AED?style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
 **AI & Deep Learning**
 
@@ -113,9 +128,9 @@ I also practice **competitive shooting** (10m/50m) at the **Kushtia Rifle Club**
 <td align="center" width="25%">
 <br/>
 
-**🔌**
+<img src="https://img.shields.io/badge/🔌-7C3AED?style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
 **IoT & Hardware**
 
@@ -127,9 +142,9 @@ I also practice **competitive shooting** (10m/50m) at the **Kushtia Rifle Club**
 <td align="center" width="25%">
 <br/>
 
-**🌐**
+<img src="https://img.shields.io/badge/🌐-7C3AED?style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
 **Full-Stack Dev**
 
@@ -141,9 +156,9 @@ I also practice **competitive shooting** (10m/50m) at the **Kushtia Rifle Club**
 <td align="center" width="25%">
 <br/>
 
-**🚀**
+<img src="https://img.shields.io/badge/🚀-7C3AED?style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
 **Entrepreneurship**
 
@@ -163,66 +178,88 @@ I also practice **competitive shooting** (10m/50m) at the **Kushtia Rifle Club**
 
 <br/>
 
+<!-- ══════════════════════ TECH STACK ══════════════════════ -->
+
 <div align="center">
 
-### Tech Arsenal
+## ⚡ Tech Arsenal
 
 <br/>
 
 <details>
-<summary>&nbsp;⚙️&nbsp; Click to expand full tech stack</summary>
+<summary><b>&nbsp;🛠️&nbsp; Click to explore my full tech stack&nbsp;</b></summary>
 
 <br/>
 
-**Languages**
+**⌨️ Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+<br/>
 
-**AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=A78BFA)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=A78BFA)
+![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=A78BFA)
+![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+![Bash](https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=A78BFA)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=A78BFA)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=A78BFA)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0d1117?style=flat-square&logo=google&logoColor=4285F4)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
+<br/>
 
-**Web & Backend**
+**🧠 AI & Machine Learning**
 
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+<br/>
 
-**IoT & Hardware**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=A78BFA)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=A78BFA)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=for-the-badge&logo=opencv&logoColor=A78BFA)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-1a1a2e?style=for-the-badge&logo=google&logoColor=A78BFA)
+![scikit-learn](https://img.shields.io/badge/Scikit_Learn-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=A78BFA)
+![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=for-the-badge&logo=numpy&logoColor=A78BFA)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=A78BFA)
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat-square&logo=raspberrypi&logoColor=A22846)
-![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=flat-square&logo=espressif&logoColor=E7352C)
-![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979D)
-![MQTT](https://img.shields.io/badge/MQTT-0d1117?style=flat-square&logo=eclipsemosquitto&logoColor=3C5280)
+<br/>
 
-**Cloud & DevOps**
+**🌐 Web & Backend**
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+<br/>
+
+![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=A78BFA)
+![Django](https://img.shields.io/badge/Django-1a1a2e?style=for-the-badge&logo=django&logoColor=A78BFA)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=A78BFA)
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=A78BFA)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=A78BFA)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=A78BFA)
+
+<br/>
+
+**🔌 IoT & Hardware**
+
+<br/>
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a1a2e?style=for-the-badge&logo=raspberrypi&logoColor=A78BFA)
+![ESP32](https://img.shields.io/badge/ESP32-1a1a2e?style=for-the-badge&logo=espressif&logoColor=A78BFA)
+![Arduino](https://img.shields.io/badge/Arduino-1a1a2e?style=for-the-badge&logo=arduino&logoColor=A78BFA)
+![MQTT](https://img.shields.io/badge/MQTT-1a1a2e?style=for-the-badge&logo=eclipsemosquitto&logoColor=A78BFA)
+
+<br/>
+
+**☁️ Cloud & DevOps**
+
+<br/>
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1a1a2e?style=for-the-badge&logo=googlecloud&logoColor=A78BFA)
+![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=A78BFA)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=for-the-badge&logo=firebase&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=A78BFA)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=A78BFA)
+![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=for-the-badge&logo=vercel&logoColor=A78BFA)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA)
+
+<br/>
 
 </details>
 
@@ -234,9 +271,11 @@ I also practice **competitive shooting** (10m/50m) at the **Kushtia Rifle Club**
 
 <br/>
 
+<!-- ══════════════════════ PROJECTS ══════════════════════ -->
+
 <div align="center">
 
-### Featured Projects
+## 🏆 Featured Projects
 
 </div>
 
@@ -247,11 +286,15 @@ I also practice **competitive shooting** (10m/50m) at the **Kushtia Rifle Club**
 
 <td width="50%" valign="top">
 
-#### 🧠 AI Virtual Mouse
+<div align="center">
 
-> Control your computer with hand gestures — no hardware needed.
+[![AI Virtual Mouse](https://img.shields.io/badge/🧠_AI_VIRTUAL_MOUSE-7C3AED?style=for-the-badge)](#)
 
-Real-time gesture recognition system that replaces your physical mouse with hand movements detected through your webcam using computer vision and hand landmark detection.
+</div>
+
+> **Control your computer with hand gestures — no hardware needed.**
+
+Real-time gesture recognition system that replaces your physical mouse with hand movements detected through your webcam using computer vision.
 
 **Impact →** Accessibility tool for people with physical disabilities
 
@@ -259,25 +302,33 @@ Real-time gesture recognition system that replaces your physical mouse with hand
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white)
 
-[![Source Code](https://img.shields.io/badge/Source_Code_→-8B89CC?style=flat-square&logo=github&logoColor=white)](https://github.com/asikdial-dev/ai-virtual-mouse)
+<br/>
+
+[![View Code](https://img.shields.io/badge/View_Source_Code_→-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asikdial-dev/ai-virtual-mouse)
 
 </td>
 
 <td width="50%" valign="top">
 
-#### 🐠 Smart Aquarium
+<div align="center">
 
-> An intelligent ecosystem that takes care of itself.
+[![Smart Aquarium](https://img.shields.io/badge/🐠_SMART_AQUARIUM-7C3AED?style=for-the-badge)](#)
 
-IoT-powered aquarium management system with automated feeding, water quality monitoring, temperature control, and mobile alerts — all running on ESP32 microcontrollers.
+</div>
 
-**Impact →** Reduces fish mortality by 80% through real-time monitoring
+> **An intelligent ecosystem that takes care of itself.**
+
+IoT-powered aquarium with automated feeding, water quality monitoring, temperature control, and mobile alerts — running on ESP32 microcontrollers.
+
+**Impact →** Reduces fish mortality by 80% via real-time monitoring
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white)
 
-[![Source Code](https://img.shields.io/badge/Source_Code_→-8B89CC?style=flat-square&logo=github&logoColor=white)](https://github.com/asikdial-dev/smart-aquarium)
+<br/>
+
+[![View Code](https://img.shields.io/badge/View_Source_Code_→-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asikdial-dev/smart-aquarium)
 
 </td>
 
@@ -286,35 +337,49 @@ IoT-powered aquarium management system with automated feeding, water quality mon
 
 <td width="50%" valign="top">
 
-#### 🌐 Free Web Hosting Guide
+<div align="center">
 
-> 50+ free hosting services, curated and compared.
+[![Free Hosting Guide](https://img.shields.io/badge/🌐_FREE_WEB_HOSTING_GUIDE-7C3AED?style=for-the-badge)](#)
 
-The most comprehensive collection of free web hosting services on the internet. Helping developers, students, and startups deploy without spending a dollar. Updated for 2026.
+</div>
+
+> **50+ free hosting services, curated and compared for 2026.**
+
+The most comprehensive free hosting list on the internet. Helping thousands of developers, students, and startups deploy without spending a dollar.
 
 **Impact →** Used by thousands of developers worldwide
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
-[![View Guide](https://img.shields.io/badge/View_Guide_→-8B89CC?style=flat-square&logo=github&logoColor=white)](https://github.com/asikdial-dev/free-web-hosting-guide)
+<br/>
+
+[![View Guide](https://img.shields.io/badge/View_Guide_→-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asikdial-dev/free-web-hosting-guide)
 
 </td>
 
 <td width="50%" valign="top">
 
-#### 🔮 Coming Soon
+<div align="center">
 
-> Always building. Always shipping.
+[![Coming Soon](https://img.shields.io/badge/🔮_COMING_SOON-7C3AED?style=for-the-badge)](#)
 
-Currently working on:
+</div>
 
-- **AI-powered Bangla language tools**
-- **Smart Home automation system**
-- **Open-source developer toolkit**
-- **Personal AI assistant**
+> **Always building. Always shipping.**
 
-[![All Repos](https://img.shields.io/badge/All_Repositories_→-8B89CC?style=flat-square&logo=github&logoColor=white)](https://github.com/asikdial-dev?tab=repositories)
+Currently in development:
+
+- 🤖 **AI-powered Bangla language tools**
+- 🏠 **Smart Home automation system**
+- 🧰 **Open-source developer toolkit**
+- 💬 **Personal AI assistant**
+
+**→ Follow to get notified when shipped**
+
+<br/>
+
+[![Follow](https://img.shields.io/badge/Follow_@asikdial--dev_→-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asikdial-dev)
 
 </td>
 
@@ -327,9 +392,11 @@ Currently working on:
 
 <br/>
 
+<!-- ══════════════════════ CREDENTIALS ══════════════════════ -->
+
 <div align="center">
 
-### Credentials
+## 📜 Credentials & Certifications
 
 <br/>
 
@@ -337,45 +404,54 @@ Currently working on:
 <tr>
 
 <td align="center" width="33%">
+<br/>
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+[![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
+
+<br/>
 
 **Google Cloud**
 
-Large Language Models
-Generative AI
-Responsible AI
+Introduction to Large Language Models
+Introduction to Generative AI
+Introduction to Responsible AI
 
-<sub>Google Cloud Skills Boost</sub>
-
+<sub>✅ Verified by Google Cloud Skills Boost</sub>
+<br/><br/>
 </td>
 
 <td align="center" width="33%">
+<br/>
 
-![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white)
+[![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](#)
+
+<br/>
 
 **IBM**
 
-Python for Data Science
-Data Analysis
-Machine Learning
+Python 101 for Data Science
+Data Analysis with Python
+Machine Learning Fundamentals
 
-<sub>IBM Cognitive Class</sub>
-
+<sub>✅ Verified by IBM Cognitive Class</sub>
+<br/><br/>
 </td>
 
 <td align="center" width="33%">
+<br/>
 
-![Python](https://img.shields.io/badge/VENUS_IT-FFD43B?style=flat-square&logo=python&logoColor=000000)
+[![VENUS IT](https://img.shields.io/badge/VENUS_IT-7C3AED?style=for-the-badge&logo=python&logoColor=white)](#)
+
+<br/>
 
 **VENUS IT Institute**
 
-Python Prodigy
-Advanced Development
+Python Programming Prodigy
+Advanced Python Development
 Project-Based Learning
 
-<sub>Kushtia, Bangladesh</sub>
-
+<sub>📍 Kushtia, Bangladesh</sub>
+<br/><br/>
 </td>
 
 </tr>
@@ -389,9 +465,11 @@ Project-Based Learning
 
 <br/>
 
+<!-- ══════════════════════ EXPERIENCE ══════════════════════ -->
+
 <div align="center">
 
-### Experience
+## 💼 Professional Experience
 
 </div>
 
@@ -400,27 +478,34 @@ Project-Based Learning
 <table>
 <tr>
 <td align="center" width="100">
+<br/>
 
-**2025**
+[![2025](https://img.shields.io/badge/2025-7C3AED?style=for-the-badge)](#)
 
 ↓
 
 **Present**
 
+<br/>
 </td>
 <td>
 
-**Technical Solutions Intern** — Unique Computer, Kushtia
+### Technical Solutions Intern — Unique Computer, Kushtia
 
-- 🔧 Built **Python automation scripts** → **20% efficiency improvement**
-- 🔌 Designed **IoT hardware/software systems** for **5+ client projects**
-- 🤝 Architected **scalable solutions** with cross-functional teams
-- 📊 Created **data dashboards** and **reporting tools** for operations
-- 🎓 Mentored **junior interns** in Python programming
+<br/>
+
+- 🔧 Built **Python automation scripts** → achieved **20% efficiency improvement**
+- 🔌 Designed and integrated **IoT hardware/software systems** for **5+ client projects**
+- 🤝 Architected **scalable solutions** collaborating with cross-functional teams
+- 📊 Created **data dashboards** and **reporting tools** for internal operations
+- 🎓 Mentored **junior interns** in Python programming fundamentals
+
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00A4EF?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-FF6F00?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-7C3AED?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-7C3AED?style=flat-square)
+![Data](https://img.shields.io/badge/Data_Analysis-7C3AED?style=flat-square)
 
 </td>
 </tr>
@@ -432,23 +517,27 @@ Project-Based Learning
 
 <br/>
 
+<!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
+
 <div align="center">
 
-### GitHub Analytics
+## 📊 GitHub Analytics
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=asikdial-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B89CC&text_color=c9d1d9&icon_color=8B89CC&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=asikdial-dev&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=E8E8E8&icon_color=7C3AED&ring_color=7C3AED&include_all_commits=true&count_private=true" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asikdial-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B89CC&text_color=c9d1d9&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asikdial-dev&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=E8E8E8&langs_count=8" width="40%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=asikdial-dev&theme=dark&hide_border=true&background=0d1117&ring=8B89CC&fire=8B89CC&currStreakLabel=8B89CC&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=555555" width="65%" />
+<img src="https://streak-stats.demolab.com?user=asikdial-dev&theme=dark&hide_border=true&background=1a1a2e&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E8E8E8&currStreakNum=FFFFFF&sideNums=E8E8E8&dates=888888&stroke=7C3AED" width="60%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asikdial-dev&bg_color=0d1117&color=8B89CC&line=8B89CC&point=ffffff&area_color=8B89CC&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asikdial-dev&bg_color=1a1a2e&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=7C3AED&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="90%" />
+
+<br/>
 
 </div>
 
@@ -458,41 +547,47 @@ Project-Based Learning
 
 <br/>
 
+<!-- ══════════════════════ CONNECT ══════════════════════ -->
+
 <div align="center">
 
-### Let's Build Something Together
+## 🤝 Let's Build Something Together
 
 <br/>
 
-<sub>Open to collaborations, internships, consulting, and projects that push boundaries.</sub>
+<sub><i>Open to collaborations, internships, consulting, and projects that push boundaries.</i></sub>
 
 <br/><br/>
 
 | | |
-|---|---|
-| 🌐 **Website** | [asikdial-tech.pro.bd](https://asikdial-tech.pro.bd/) · [asikdial-tech.co.uk](https://asikdial-tech.co.uk/) |
-| 📧 **Email** | [asikdial.dev@gmail.com](mailto:asikdial.dev@gmail.com) · [asikdial.tech@gmail.com](mailto:asikdial.tech@gmail.com) |
+|:---:|:---|
+| 🌐 **Websites** | [asikdial-tech.pro.bd](https://asikdial-tech.pro.bd/) &nbsp;·&nbsp; [asikdial-tech.co.uk](https://asikdial-tech.co.uk/) |
+| 📧 **Email** | [asikdial.dev@gmail.com](mailto:asikdial.dev@gmail.com) &nbsp;·&nbsp; [asikdial.tech@gmail.com](mailto:asikdial.tech@gmail.com) |
 | 💼 **LinkedIn** | [@asikdial-tech](https://linkedin.com/in/asikdial-tech) |
 | 🐦 **𝕏 (Twitter)** | [@AsikDialTech](https://x.com/AsikDialTech) |
 | 📸 **Instagram** | [@asikdial.tech](https://instagram.com/asikdial.tech) |
 | 📘 **Facebook** | [AsikDialTechBD](https://facebook.com/AsikDialTechBD) |
 | ✍️ **Medium** | [@asikdial-tech](https://medium.com/@asikdial-tech) |
 | 🎨 **Sketchfab** | [3D Models](https://sketchfab.com/asikdial.tech) |
-| 🐙 **GitHub** | [@asikdial-dev](https://github.com/asikdial-dev) · [@asikdial-tech](https://github.com/asikdial-tech) |
+| 🐙 **GitHub** | [@asikdial-dev](https://github.com/asikdial-dev) &nbsp;·&nbsp; [@asikdial-tech](https://github.com/asikdial-tech) |
 
 <br/>
 
-[![Star](https://img.shields.io/badge/⭐_Star_My_Repos-8B89CC?style=flat-square&logo=github&logoColor=white)](https://github.com/asikdial-dev)
+[![Star My Repos](https://img.shields.io/badge/⭐_Star_My_Repos-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asikdial-dev)
 &nbsp;&nbsp;
-[![Follow](https://img.shields.io/badge/Follow_@asikdial--dev-8B89CC?style=flat-square&logo=github&logoColor=white)](https://github.com/asikdial-dev)
+[![Follow Me](https://img.shields.io/badge/Follow_@asikdial--dev-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asikdial-dev)
 &nbsp;&nbsp;
-[![Tweet](https://img.shields.io/badge/Share_on_𝕏-8B89CC?style=flat-square&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=Check+out+@AsikDialTech+—+16+year+old+AI+developer+from+Bangladesh&url=https://github.com/asikdial-dev)
+[![Share on 𝕏](https://img.shields.io/badge/Share_on_𝕏-7C3AED?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=Check+out+@AsikDialTech+—+16+year+old+AI+%26+IoT+developer+building+amazing+projects+from+Bangladesh!&url=https://github.com/asikdial-dev)
 
 </div>
 
 <br/>
 
 ---
+
+<br/>
+
+<!-- ══════════════════════ FOOTER ══════════════════════ -->
 
 <div align="center">
 
@@ -500,34 +595,36 @@ Project-Based Learning
 
 <sub>
 
-© 2024–2026 **Asik Dial Kuffer** · All rights reserved
+**© 2024–2026 Asik Dial Kuffer · All rights reserved.**
 
 This profile, its content, design, and branding elements are intellectual property.
-Inspiration is welcome — direct copying is not.
+Inspiration is welcome — direct copying or impersonation is not allowed.
 
-[asikdial.dev@gmail.com](mailto:asikdial.dev@gmail.com) · [asikdial.tech@gmail.com](mailto:asikdial.tech@gmail.com) · [asikdial-tech.pro.bd](https://asikdial-tech.pro.bd/) · [asikdial-tech.co.uk](https://asikdial-tech.co.uk/)
+📧 [asikdial.dev@gmail.com](mailto:asikdial.dev@gmail.com) · [asikdial.tech@gmail.com](mailto:asikdial.tech@gmail.com)
+🌐 [asikdial-tech.pro.bd](https://asikdial-tech.pro.bd/) · [asikdial-tech.co.uk](https://asikdial-tech.co.uk/)
 
 </sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,25:533483,50:0f3460,75:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
 
 </div>
 
 <!--
 ══════════════════════════════════════════════════
   Author: Asik Dial Kuffer
-  Brand: AsikDial Tech  
+  Brand: AsikDial Tech
   Email: asikdial.dev@gmail.com | asikdial.tech@gmail.com
   Web: asikdial-tech.pro.bd | asikdial-tech.co.uk
   GitHub: asikdial-dev | asikdial-tech
-  
+
   Keywords: Asik Dial Kuffer, asikdial-dev, asikdial-tech,
   Python developer Bangladesh, AI developer, IoT developer,
   teen developer, young tech entrepreneur Bangladesh,
   AI virtual mouse, smart aquarium, Kushtia developer,
   open source Bangladesh, machine learning, computer vision,
-  GitHub profile README, tech prodigy, 16 year old developer
+  GitHub profile README, tech prodigy, 16 year old developer,
+  free web hosting guide, smart aquarium IoT project
 ══════════════════════════════════════════════════
 -->
