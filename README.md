@@ -4,7 +4,7 @@
 
 # Asik Dial Kuffer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1500&color=6366F1&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Python+Developer+%E2%80%A2+AI+%26+IoT+Engineer+%E2%80%A2+Tech+Entrepreneur" alt="Role" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1500&color=6366F1&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Python+Developer+%E2%80%A2+AI+%26+IoT+Engineer+%E2%80%A2+Tech+Entrepreneur" alt="Role" />
 
 <br/>
 
@@ -32,63 +32,38 @@
 
 <br/>
 
+<div align="center">
+
 ## 💡 About Me
 
-I'm a **16-year-old developer** from **Kushtia, Bangladesh** specializing in **Python**, **Artificial Intelligence**, and **IoT systems**.
-
-Currently studying at **Kushtia Government Technical School and College**. Working as a **Technical Solutions Intern** at Unique Computer Kushtia. Certified by **Google Cloud** and **IBM**.
-
-I build intelligent systems that solve real problems for real people.
-
-> *"The people who are crazy enough to think they can change the world are the ones who do."*  
-> — Steve Jobs
-
 <br/>
-
----
-
-<br/>
-
-## 🎯 What I Build
 
 <table>
 <tr>
-<td width="50%">
+<td align="center">
 
-### 🧠 AI & Machine Learning
-- Computer Vision
-- Natural Language Processing
-- Generative AI
-- Large Language Models
+<br/>
 
-</td>
-<td width="50%">
+I'm not just another teenage coder writing "Hello World."
 
-### 🔌 IoT & Hardware
-- ESP32 & Raspberry Pi
-- Sensor Networks
-- Edge Computing
-- Embedded Systems
+I'm **Asik Dial Kuffer** — a **16-year-old technology architect** from **Kushtia, Bangladesh** who **ships real products** that solve real problems.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+While most people my age are choosing what to study, I've already:
 
-### 🌐 Web Development
-- Flask, Django, FastAPI
-- React, Next.js
-- REST APIs
-- Cloud Deployment
+✅ Built **AI-powered accessibility tools** used by people with disabilities  
+✅ Engineered **IoT systems** that reduce fish mortality by **80%**  
+✅ Earned certifications from **Google Cloud** and **IBM**  
+✅ Worked as a **Technical Solutions Intern** delivering client projects  
+✅ Created open-source guides helping **thousands of developers** worldwide
 
-</td>
-<td width="50%">
+Currently studying at **Kushtia Government Technical School and College**, I specialize in **Python**, **Artificial Intelligence**, and **IoT systems** — building intelligent software that thinks, adapts, and performs autonomously.
 
-### ☁️ Cloud & DevOps
-- Google Cloud Platform
-- AWS & Firebase
-- Docker & Git
-- Linux Administration
+I also practice **competitive shooting** (10m/50m) at the **Kushtia Rifle Club**.  
+Because **precision in aim** translates to **precision in code**.
+
+**I don't follow trends. I build the tools that become them.**
+
+<br/>
 
 </td>
 </tr>
@@ -96,63 +71,10 @@ I build intelligent systems that solve real problems for real people.
 
 <br/>
 
----
+> *"The people who are crazy enough to think they can change the world are the ones who do."*  
+> — Steve Jobs
 
-<br/>
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>Click to expand</b></summary>
-
-<br/>
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### Web & Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### IoT & Hardware
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white)
-
-### Cloud & Tools
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</details>
+</div>
 
 <br/>
 
@@ -160,85 +82,310 @@ I build intelligent systems that solve real problems for real people.
 
 <br/>
 
-## 🚀 Featured Projects
+<div align="center">
+
+## 🎯 What I Build
+
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
+
+<br/>
+
+### 🧠
+**AI & Machine Learning**
+
+<sub>Computer Vision  
+Natural Language Processing  
+Generative AI  
+Large Language Models</sub>
+
+<br/>
+
+</td>
+<td align="center" width="25%">
+
+<br/>
+
+### 🔌
+**IoT & Hardware**
+
+<sub>ESP32 & Raspberry Pi  
+Sensor Networks  
+Edge Computing  
+Embedded Systems</sub>
+
+<br/>
+
+</td>
+<td align="center" width="25%">
+
+<br/>
+
+### 🌐
+**Web Development**
+
+<sub>Flask, Django, FastAPI  
+React, Next.js  
+REST APIs  
+Cloud Deployment</sub>
+
+<br/>
+
+</td>
+<td align="center" width="25%">
+
+<br/>
+
+### ☁️
+**Cloud & DevOps**
+
+<sub>Google Cloud Platform  
+AWS & Firebase  
+Docker & Git  
+Linux Administration</sub>
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<br/>
+
+### Programming Languages
+
+<br/>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" title="JavaScript"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript" title="TypeScript"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" title="C++"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" title="HTML5"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" title="CSS3"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="SQL" title="SQL"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" alt="Bash" title="Bash"/>
+</p>
+
+<br/>
+
+### AI & Machine Learning
+
+<br/>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow" title="TensorFlow"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" alt="PyTorch" title="PyTorch"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60" alt="OpenCV" title="OpenCV"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy" title="NumPy"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" title="Pandas"/>
+</p>
+
+<br/>
+
+### Web & Backend
+
+<br/>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" title="Flask"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" alt="Django" title="Django"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60" alt="FastAPI" title="FastAPI"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" title="Node.js"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" title="React"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" title="Next.js"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS" title="Tailwind CSS"/>
+</p>
+
+<br/>
+
+### IoT & Hardware
+
+<br/>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="60" height="60" alt="Raspberry Pi" title="Raspberry Pi"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60" height="60" alt="Arduino" title="Arduino"/>
+</p>
+
+<br/>
+
+### Cloud & DevOps
+
+<br/>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" alt="Google Cloud" title="Google Cloud"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60" alt="AWS" title="AWS"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" alt="Firebase" title="Firebase"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" title="Docker"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" title="Linux"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" title="VS Code"/>
+</p>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<br/>
 
 ### 🧠 AI Virtual Mouse
 
-> **Control your computer with hand gestures — no hardware needed.**
+<br/>
+
+**Control your computer with hand gestures — no hardware needed.**
 
 Real-time gesture recognition system that replaces your physical mouse with hand movements detected through your webcam using computer vision.
 
 **Impact:** Accessibility tool for people with physical disabilities.
 
-**Tech:** `Python` `OpenCV` `MediaPipe` `NumPy`
+<br/>
+
+`Python` `OpenCV` `MediaPipe` `NumPy`
 
 <br/>
 
 [![View Project](https://img.shields.io/badge/View_Project_→-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asikdial-dev/ai-virtual-mouse)
 
+<br/>
+
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
+
+<br/>
 
 ### 🐠 Smart Aquarium
 
-> **An intelligent ecosystem that takes care of itself.**
+<br/>
+
+**An intelligent ecosystem that takes care of itself.**
 
 IoT-powered aquarium management with automated feeding, water quality monitoring, temperature control, and mobile alerts on ESP32 microcontrollers.
 
 **Impact:** Reduces fish mortality by 80% through real-time monitoring.
 
-**Tech:** `ESP32` `Python` `MQTT` `IoT`
+<br/>
+
+`ESP32` `Python` `MQTT` `IoT`
 
 <br/>
 
 [![View Project](https://img.shields.io/badge/View_Project_→-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asikdial-dev/smart-aquarium)
 
+<br/>
+
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
+
+<br/>
 
 ### 🌐 Free Web Hosting Guide
 
-> **50+ free hosting services, curated and compared for 2026.**
+<br/>
+
+**50+ free hosting services, curated and compared for 2026.**
 
 The most comprehensive collection of free web hosting services on the internet. Helping thousands of developers, students, and startups deploy without spending a dollar.
 
 **Impact:** Used by developers worldwide.
 
-**Tech:** `Markdown` `Open Source` `Community`
+<br/>
+
+`Markdown` `Open Source` `Community`
 
 <br/>
 
 [![View Guide](https://img.shields.io/badge/View_Guide_→-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asikdial-dev/free-web-hosting-guide)
 
+<br/>
+
 </td>
-<td width="50%" valign="top">
-
-### 🔮 More Coming Soon
-
-> **Always building. Always shipping.**
-
-Currently working on:
-
-- 🤖 AI-powered Bangla language tools
-- 🏠 Smart Home automation system
-- 🧰 Open-source developer toolkit
-- 💬 Personal AI assistant
-
-**Follow to stay updated!**
+<td align="center" width="50%">
 
 <br/>
 
+### 🔮 More Coming Soon
+
+<br/>
+
+**Always building. Always shipping.**
+
+Currently working on:
+
+🤖 AI-powered Bangla language tools  
+🏠 Smart Home automation system  
+🧰 Open-source developer toolkit  
+💬 Personal AI assistant
+
+**Follow to stay updated!**
+
+<br/><br/>
+
 [![Follow Me](https://img.shields.io/badge/Follow_@asikdial--dev-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asikdial-dev)
+
+<br/>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -246,7 +393,11 @@ Currently working on:
 
 <br/>
 
+<div align="center">
+
 ## 📜 Credentials & Certifications
+
+<br/>
 
 <table>
 <tr>
@@ -263,6 +414,8 @@ Currently working on:
 Introduction to Large Language Models  
 Introduction to Generative AI  
 Introduction to Responsible AI
+
+<br/>
 
 <sub>✅ Verified by Google Cloud Skills Boost</sub>
 
@@ -283,6 +436,8 @@ Python 101 for Data Science
 Data Analysis with Python  
 Machine Learning Fundamentals
 
+<br/>
+
 <sub>✅ Verified by IBM Cognitive Class</sub>
 
 <br/>
@@ -302,6 +457,8 @@ Python Programming Prodigy
 Advanced Python Development  
 Project-Based Learning
 
+<br/>
+
 <sub>📍 Kushtia, Bangladesh</sub>
 
 <br/>
@@ -310,17 +467,23 @@ Project-Based Learning
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 ---
 
 <br/>
 
+<div align="center">
+
 ## 💼 Professional Experience
+
+<br/>
 
 <table>
 <tr>
-<td align="center" width="120">
+<td align="center" width="140">
 
 <br/>
 
@@ -333,18 +496,22 @@ Project-Based Learning
 <br/>
 
 </td>
-<td>
+<td align="left">
 
 <br/>
 
 ### Technical Solutions Intern
 **Unique Computer, Kushtia**
 
-- 🔧 Built **Python automation scripts** → achieved **20% efficiency improvement**
-- 🔌 Designed and integrated **IoT hardware/software systems** for **5+ client projects**
-- 🤝 Architected **scalable solutions** collaborating with cross-functional teams
-- 📊 Created **data dashboards** and **reporting tools** for internal operations
-- 🎓 Mentored **junior interns** in Python programming fundamentals
+<br/>
+
+🔧 Built **Python automation scripts** → achieved **20% efficiency improvement**  
+🔌 Designed and integrated **IoT hardware/software systems** for **5+ client projects**  
+🤝 Architected **scalable solutions** collaborating with cross-functional teams  
+📊 Created **data dashboards** and **reporting tools** for internal operations  
+🎓 Mentored **junior interns** in Python programming fundamentals
+
+<br/>
 
 **Technologies:** Python · IoT · Automation · Data Analysis · Hardware Integration
 
@@ -354,30 +521,30 @@ Project-Based Learning
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 ---
 
 <br/>
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
+## 📊 GitHub Analytics
+
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=asikdial-dev&show_icons=true&hide_border=true&bg_color=ffffff&title_color=6366F1&text_color=374151&icon_color=6366F1&ring_color=6366F1&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asikdial-dev&layout=compact&hide_border=true&bg_color=ffffff&title_color=6366F1&text_color=374151&langs_count=8" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api?username=asikdial-dev&show_icons=true&hide_border=true&bg_color=f9fafb&title_color=6366F1&text_color=374151&icon_color=6366F1&ring_color=6366F1&include_all_commits=true&count_private=true&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asikdial-dev&layout=compact&hide_border=true&bg_color=f9fafb&title_color=6366F1&text_color=374151&langs_count=8&border_radius=10" width="41%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=asikdial-dev&hide_border=true&background=ffffff&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=374151&currStreakNum=6366F1&sideNums=374151&dates=9CA3AF" width="60%" />
+<img src="https://streak-stats.demolab.com?user=asikdial-dev&hide_border=true&background=f9fafb&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=374151&currStreakNum=6366F1&sideNums=374151&dates=9CA3AF&border_radius=10" width="60%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asikdial-dev&bg_color=ffffff&color=6366F1&line=6366F1&point=374151&area_color=E0E7FF&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%" />
-
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asikdial-dev&bg_color=f9fafb&color=6366F1&line=6366F1&point=374151&area_color=E0E7FF&area=true&hide_border=true&custom_title=Contribution%20Timeline&radius=10" width="95%" />
 
 </div>
 
@@ -387,25 +554,54 @@ Project-Based Learning
 
 <br/>
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-<sub>Open to collaborations, internships, consulting, and projects that make an impact.</sub>
+## 🤝 Let's Connect
+
+<br/>
+
+*Open to collaborations, internships, consulting, and projects that make an impact.*
 
 <br/><br/>
 
-| | |
-|:---:|:---|
-| 🌐 **Websites** | [asikdial-tech.pro.bd](https://asikdial-tech.pro.bd) · [asikdial-tech.co.uk](https://asikdial-tech.co.uk) |
-| 📧 **Email** | [asikdial.dev@gmail.com](mailto:asikdial.dev@gmail.com) · [asikdial.tech@gmail.com](mailto:asikdial.tech@gmail.com) |
-| 💼 **LinkedIn** | [@asikdial-tech](https://linkedin.com/in/asikdial-tech) |
-| 🐦 **𝕏 (Twitter)** | [@AsikDialTech](https://x.com/AsikDialTech) |
-| 📸 **Instagram** | [@asikdial.tech](https://instagram.com/asikdial.tech) |
-| 📘 **Facebook** | [AsikDialTechBD](https://facebook.com/AsikDialTechBD) |
-| ✍️ **Medium** | [@asikdial-tech](https://medium.com/@asikdial-tech) |
-| 🎨 **Sketchfab** | [3D Models](https://sketchfab.com/asikdial.tech) |
-| 🐙 **GitHub** | [@asikdial-dev](https://github.com/asikdial-dev) · [@asikdial-tech](https://github.com/asikdial-tech) |
+<table>
+<tr>
+<td align="right"><b>🌐 Websites</b></td>
+<td><a href="https://asikdial-tech.pro.bd">asikdial-tech.pro.bd</a> · <a href="https://asikdial-tech.co.uk">asikdial-tech.co.uk</a></td>
+</tr>
+<tr>
+<td align="right"><b>📧 Email</b></td>
+<td><a href="mailto:asikdial.dev@gmail.com">asikdial.dev@gmail.com</a> · <a href="mailto:asikdial.tech@gmail.com">asikdial.tech@gmail.com</a></td>
+</tr>
+<tr>
+<td align="right"><b>💼 LinkedIn</b></td>
+<td><a href="https://linkedin.com/in/asikdial-tech">@asikdial-tech</a></td>
+</tr>
+<tr>
+<td align="right"><b>🐦 𝕏 (Twitter)</b></td>
+<td><a href="https://x.com/AsikDialTech">@AsikDialTech</a></td>
+</tr>
+<tr>
+<td align="right"><b>📸 Instagram</b></td>
+<td><a href="https://instagram.com/asikdial.tech">@asikdial.tech</a></td>
+</tr>
+<tr>
+<td align="right"><b>📘 Facebook</b></td>
+<td><a href="https://facebook.com/AsikDialTechBD">AsikDialTechBD</a></td>
+</tr>
+<tr>
+<td align="right"><b>✍️ Medium</b></td>
+<td><a href="https://medium.com/@asikdial-tech">@asikdial-tech</a></td>
+</tr>
+<tr>
+<td align="right"><b>🎨 Sketchfab</b></td>
+<td><a href="https://sketchfab.com/asikdial.tech">3D Models</a></td>
+</tr>
+<tr>
+<td align="right"><b>🐙 GitHub</b></td>
+<td><a href="https://github.com/asikdial-dev">@asikdial-dev</a> · <a href="https://github.com/asikdial-tech">@asikdial-tech</a></td>
+</tr>
+</table>
 
 <br/>
 
@@ -421,20 +617,28 @@ Project-Based Learning
 
 <br/>
 
+<div align="center">
+
 ## 📜 License
 
-<div align="center">
+<br/>
 
 **MIT License**
 
 Copyright © 2024–2026 **Asik Dial Kuffer**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this repository and its contents to use, copy, modify, merge, publish, and distribute, subject to the following conditions:
+<br/>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this repository  
+and its contents to use, copy, modify, merge, publish, and distribute, subject to the following conditions:
 
 - The above copyright notice and this permission notice shall be included in all copies.
 - Credit must be given to the original author: **Asik Dial Kuffer**
 
-The content is provided "as is", without warranty of any kind. The author is not liable for any claim or damages.
+The content is provided "as is", without warranty of any kind.  
+The author is not liable for any claim or damages.
+
+<br/>
 
 > 📌 This is a **personal profile repository**. You may take inspiration freely.  
 > Direct copying of personal branding, identity, or content without permission is not allowed.
@@ -450,17 +654,15 @@ The content is provided "as is", without warranty of any kind. The author is not
 
 ---
 
-<div align="center">
-
 <br/>
 
-<sub>
+<div align="center">
 
 **© 2024–2026 Asik Dial Kuffer · All rights reserved**
 
-Crafted with precision and passion from Kushtia, Bangladesh 🇧🇩
+<br/>
 
-</sub>
+*Crafted with precision and passion from Kushtia, Bangladesh* 🇧🇩
 
 <br/><br/>
 
